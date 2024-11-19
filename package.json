@@ -5,7 +5,7 @@
   "homepage": "https://homekit.tinkeringaround.de",
   "dependencies": {
     "@nivo/line": "^0.61.1",
-    "firebase": "^7.6.1",
+    "firebase": "^10.9.0",
     "grommet": "^2.9.0",
     "moment": "^2.24.0",
     "react": "^16.12.0",
